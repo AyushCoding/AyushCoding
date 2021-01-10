@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">Front-end Web Developer | B.Tech CS Student at KIIT University</h3>
 
-🌱 I’m currently learning **
-● I am an aspiring Web developer, basically brushing up my skills in HTML, CSS and Javascript.
-● Giving a lot of time to Advanced Data Structure and Algorithms.**
-
+🌱 I’m currently learning
+<ul>
+   <li>I am an aspiring Web developer, basically brushing up my skills in HTML, CSS and Javascript.</li>
+   <li>Giving a lot of time to Advanced Data Structure and Algorithms.</li>
+</ul>
 📫 How to reach me **swainayush9@gmail.com**
 
 
