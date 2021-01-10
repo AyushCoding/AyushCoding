@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">Front-end Web Developer | B.Tech CS Student at KIIT University</h3>
 
-- 🌱 I’m currently learning **
-<br>
+🌱 I’m currently learning **
 ● I am an aspiring Web developer, basically brushing up my skills in HTML, CSS and Javascript.
 ● Giving a lot of time to Advanced Data Structure and Algorithms.**
 
-- 📫 How to reach me **swainayush9@gmail.com**
+📫 How to reach me **swainayush9@gmail.com**
 
 
 
@@ -19,3 +18,4 @@
 <a href="https://instagram.com/a_.y_.u_.s_.h_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="a_.y_.u_.s_.h_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/swainayush9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="swainayush9" height="30" width="40" /></a>
 </p>
+
